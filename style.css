@@ -1,12 +1,9 @@
 .title {
   align-items: center;
+  font-size: 4em;
+  font-family: 'Barriecito', cursive;
 }
 .flexContainer {
   display: flex;
 
-}
-#nameFont {
-  /*color: white;*/
-  font-size: 4em;
-  font-family: 'Barriecito', cursive;
 }
