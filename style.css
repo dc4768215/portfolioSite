@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
 .title {
-  display:flex;
-  flex-flow:wrap;
-  align-items: center;
-  justify-content:center;
+  
   font-family: 'Michroma', sans-serif;
   font-size: 100%;
 }
