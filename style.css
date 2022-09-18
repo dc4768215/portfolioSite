@@ -1,5 +1,9 @@
-.bg {
-  text-align: center;
+.title {
+  align-items: center;
+}
+.flexContainer {
+  display: flex;
+
 }
 #nameFont {
   /*color: white;*/
