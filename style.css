@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Barriecito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
 .title {
   display:flex;
   align-items: center;
-  text-align: center;
   font-family: 'Barriecito', cursive;
   font-size: 4em;
 }
