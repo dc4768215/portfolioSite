@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&display=swap');
 .title {
+  display:flex;
   align-items: center;
-  font-size: 4em;
+  text-align: center;
   font-family: 'Barriecito', cursive;
+  font-size: 4em;
 }
 .flexContainer {
   display: flex;
