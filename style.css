@@ -1,7 +1,9 @@
+.bg {
+  text-align: center;
+}
 #nameFont {
   /*color: white;*/
   font-size: 4em;
   font-family: 'Barriecito', cursive;
   font-family: 'Source Code Pro', monospace;
-  text-align: center;
 }
