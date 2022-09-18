@@ -4,8 +4,6 @@
   align-items: center;
   flex-flow:wrap;
   justify-content: space-around;
-}
-.title1{
-    font-family: 'Michroma', sans-serif;
-    font-size: 100%;
+  font-family: 'Michroma', sans-serif;
+  font-size: 100%;
 }
