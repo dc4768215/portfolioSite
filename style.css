@@ -2,8 +2,11 @@
 .title {
   display:flex;
   align-items: center;
-  font-family: 'Michroma', sans-serif;
-  font-size: 4em;
+  flex-flow: row;
+}
+.title1{
+    font-family: 'Michroma', sans-serif;
+    font-size: 100%;
 }
 .flexContainer {
   display: flex;
