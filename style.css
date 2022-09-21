@@ -21,6 +21,8 @@
   justify-content: space-between;
   flex-direction: row;
   width: 15vw;
+  font-family: arial;
+  text-decoration: none;
 }
 .menu > p {
   margin-top: 6px;
