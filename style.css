@@ -22,9 +22,11 @@
   flex-direction: row;
   width: 15vw;
   font-family: arial;
+}
+.menu > a {
   text-decoration: none;
 }
 .menu > p {
-  margin-top: 6px;
+  margin-top: 5px;
   margin-bottom: 6px;
 }
