@@ -13,10 +13,12 @@
 .navWrapper {
   display: flex;
   justify-content: center;
-  background-color: black;
   padding: 0.5vw;
   font-size: 17px;
 }
 .menu {
-
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 80vw;
 }
